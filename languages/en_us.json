@@ -1,0 +1,28 @@
+{
+  "language_name": "English (US)",
+
+  "main.title": "CS Translator",
+  "main.setting": "Configurations",
+  "config.lang": "Language",
+  "config.account_name": "Main player id",
+  "config.ui_lang": "Software language",
+  "config.dst_lang": "Target language",
+  "config.default_lang": "Default source language",
+  "config.custom_url": "Custom translate service URL",
+  "config.custom_url.tip": "Some regions like Mainland China, can't use official Google service\n need to input the local Google service URL",
+  "config.proxy": "Proxy",
+  "config.proxy.enable": "Enable proxy",
+  "config.proxy.auto": "Auto set proxy",
+  "config.proxy.url": "Proxy address",
+  "config.misc": "Misc",
+  "config.restart.tip": "* means need restart to apply this change",
+  "config.game_path": "CS root directory path",
+  "config.game_path.btn": "Choose dir",
+  "config.basic": "Basic Setting",
+  "config.shortcut": "Short Cut",
+  "config.shortcut.selftrans": "Fast translate your message",
+  "config.shortcut.toggle": "Toggle display overlay",
+
+  "error.game_root": "Can't find cs directory!",
+  "error.game_log": "No cs console.log on recording!"
+}
